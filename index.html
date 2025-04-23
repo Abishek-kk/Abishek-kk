@@ -7,35 +7,33 @@
     <title>Portfolio and Login Page</title>
     <link rel="stylesheet" href="login_page.css">
     <link rel="stylesheet" href="frontpage_.css">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
 </head>
 <body>
-
-
-
-
 
 <nav>
     <h1>MenuBar</h1>
     <ul>
-        <li>Home</li>
-        <li>Skills</li>
-        <li>Project</li>
-        <li>Platform</li>
-        <li>Login</li>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#projects">Project</a></li>
+        <li><a href="#platforms">Platform</a></li>
+        <li><a href="#login">Login</a></li>
     </ul>
 </nav>
 
-<div class="center-wrapper">
+<div id="home" class="center-wrapper">
     <div class="icon-container">
-      
         <a href="https://leetcode.com/u/ryoUaQAKNN/" target="_blank">
             <img src="leetcode (2).png" class="icon" alt="LeetCode Icon">
         </a>
-       
         <a href="https://www.linkedin.com/in/abishek-k-4b8416326/" target="_blank">
             <img src="linkedin.png" class="icon" alt="LinkedIn Icon">
         </a>
-      
         <a href="https://www.instagram.com/abishekkumar548709/" target="_blank">
             <img src="instagram.png" class="icon" alt="Instagram Icon">
         </a>
@@ -46,8 +44,7 @@
     </div>
 </div>
 
-
-<div class="content-section">
+<div id="about" class="content-section">
     <div class="text-content">
         <h1 class="intro-heading">Hi, I'm <span class="highlight">Abishek Kumar</span></h1>
         <h2 class="intro-subheading">Software Developer | DSA Enthusiast</h2>
@@ -60,7 +57,6 @@
         <img src="abishek.jpg" alt="My Profile Picture" class="profile-image">
     </div>
 </div>
-
 
 <div class="programming-languages">
     <div class="section-title-wrapper">
@@ -86,7 +82,6 @@
     </div>
 </div>
 
-
 <div class="web-technologies">
     <h2 class="section-title">🌐 Web Technologies</h2>
     <div class="technology-grid">
@@ -105,8 +100,7 @@
     </div>
 </div>
 
-
-<div class="tools-platforms">
+<div id="platforms" class="tools-platforms">
     <div class="section-title-wrapper">
         <h2 class="section-title">⚙️ Tools / Platforms</h2>
     </div>
@@ -126,8 +120,7 @@
     </div>
 </div>
 
-
-<div class="projects">
+<div id="projects" class="projects">
     <div class="section-title-wrapper">
         <h2 class="section-title">🚀 Projects</h2>
     </div>
@@ -158,10 +151,9 @@
         <li><strong>Location:</strong> Chennai, India</li>
       </ul>
     </div>
-  </section>
-  
-  
-<center>
+</section>
+
+<center id="login">
     <h1>LOGIN</h1>
     <form>
         <table>
@@ -190,7 +182,6 @@
     </form>
 </center>
 
-
 <div class="consultation">
     <div class="section-title-wrapper">
         <h2 class="section-title">🚀 Let's Collaborate on Your Next Project!</h2>
@@ -214,4 +205,3 @@
 
 </body>
 </html>
-
