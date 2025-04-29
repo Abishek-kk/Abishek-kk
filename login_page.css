@@ -421,3 +421,89 @@ input[type="reset"]:hover {
       font-size: 16px;
   }
 }
+/* General responsive fixes */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+/* Responsive navbar */
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+nav ul li {
+    margin: 5px 0;
+}
+
+nav h1 {
+    font-size: 24px;
+}
+
+/* Responsive image and text container */
+.content-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.text-content, .image-content {
+    flex: 1 1 300px;
+    padding: 10px;
+    text-align: center;
+}
+
+.profile-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Grid responsiveness */
+.language-grid, .technology-grid, .tools-grid, .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.language-icon, .tech-icon, .tool-icon {
+    width: 50px;
+    height: auto;
+}
+
+/* Mobile-specific adjustments */
+@media screen and (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .welcome-text h2 {
+        font-size: 22px;
+    }
+
+    .project-description, .intro-description {
+        font-size: 16px;
+    }
+
+    table {
+        width: 100%;
+        font-size: 14px;
+    }
+}
