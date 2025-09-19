@@ -44,16 +44,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-> 🔗 Replace the repo links below with your actual repositories when ready.
-
 | Project | Description | Tech Stack | Repo |
-|---|---|---|---|
+|---------|-------------|------------|------|
 | **AI-Powered-Resume** | Resume parsing & scoring using NLP/ML | Python, NLP | [View Repo](https://github.com/Abishek-kk/AI-Powered-Resume) |
 | **Smart Health Dashboard** | Real-time health analytics & monitoring | React.js, Node.js, Express.js | [View Repo](https://github.com/Abishek-kk/Smart-Health-Dashboard) |
 | **IoT-Based Smart Health & Sanitation** | IoT + Cloud platform for sanitation & health | React.js, Node.js, Express.js, Firebase | [View Repo](https://github.com/Abishek-kk/IoT-Health-Sanitation) |
@@ -69,17 +67,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishek-kk&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abishek-kk&theme=radical" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishek-kk&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Abishek-kk&theme=radical" alt="GitHub Streak" height="170"/>
 </p>
 
+---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-kk&theme=radical" alt="Contribution Graph"/>
+</p>
 
 ---
 
-
-
----
 ## 📬 Let’s Connect  
 
 <p align="center">
@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/ryoUaQAKNN/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://github.com/Abishek-kk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -100,6 +100,8 @@
 ---
 
 ⭐️ Thanks for visiting! Let’s collaborate and build cool stuff 🚀
+
+
 
 
 
