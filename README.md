@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Abishek Kumar</h1>
+<h1 align="center">Hi 👋, I'm Abishek </h1>
 <h3 align="center">Software Developer · AI Enthusiast · Competitive Programmer · B.Tech (AI & DS), CIT Chennai</h3>
 
 <!-- Typing banner -->
