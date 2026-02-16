@@ -115,7 +115,7 @@
 
 - 🧩 Strong foundation in **DSA, Graphs & Dynamic Programming**  
 - 🏆 Active problem solving on **LeetCode, Codeforces & AtCoder**  
-- 🔗 **LeetCode:** [ryoUaQAKNN](https://leetcode.com/u/ryoUaQAKNN/)
+- 🔗 **LeetCode:** []
 
 </td>
 </tr>
