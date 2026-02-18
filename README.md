@@ -27,7 +27,7 @@
 
 - 🎓 **B.Tech – Artificial Intelligence & Data Science** *(2nd Year)*  
 - 💡 Passionate about **AI systems, scalable software & clean UI/UX**  
-- 🛠️ Actively building **hackathon-grade, real-world products**  
+- 🛠️ Actively building **hackathon-grade, real-world products.**  
 - 🌱 Exploring **Advanced React, Backend Architecture & AI Agents**  
 - ⚡ Core belief: **Consistency > Motivation**
 
