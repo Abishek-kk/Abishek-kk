@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-📍 Chennai Institute of Technology (CIT), Chennai
+📍 Chennai Institute of Technology (CIT), Chennai.
 </p>
 
 <p align="center">
