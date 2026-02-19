@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=800&center=true&vCenter=true&width=1100&lines=Building+Real-World+AI+Systems;Full+Stack+Developer+(MERN+%2B+Firebase);Hackathon+Enthusiast+%26+Problem+Solver;Turning+Ideas+Into+Impactful+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=800&center=true&vCenter=true&width=1100&lines=Building+Real-World+AI+Systems;Full+Stack+Developer+(MERN+%2B+Firebase);Hackathon+Enthusiast+%26+Problem+Solver;Turning+Ideas+Into+Impactful+Software." />
 </p>
 
 <br/>
