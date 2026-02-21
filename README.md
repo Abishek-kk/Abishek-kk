@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-🚀 Software Developer &nbsp;·&nbsp; 🤖 AI & Data Science Student &nbsp;·&nbsp; ⚔️ Competitive Programmer
+🚀 Software Developer &nbsp;·&nbsp; 🤖 AI & Data Science Student &nbsp;·&nbsp; ⚔️ Competitive Programmer.
 </h2>
 
 <p align="center">
