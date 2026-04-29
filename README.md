@@ -1,161 +1,205 @@
-<!-- ===================== HERO SECTION ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,30:203a43,60:2c5364,100:0f2027&text=ABISHEK%20K&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
-</p>
+<div align="center">
 
-<h2 align="center">
-🚀 Software Developer &nbsp;·&nbsp; 🤖 AI & Data Science Student. &nbsp;·&nbsp; ⚔️ Competitive Programmer.
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ABISHEK%20K&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full-Stack&descAlignY=60&descColor=a78bfa" width="100%"/>
 
-<p align="center">
-📍 Chennai Institute of Technology (CIT), Chennai.
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=800&center=true&vCenter=true&width=1100&lines=Building+Real-World+AI+Systems;ML DEVELOPER;Hackathon+Enthusiast+%26+Problem+Solver;Turning+Ideas+Into+Impactful+Software." />
-</p>
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+Systems;🧠+LLMs+%7C+Agentic+AI+%7C+Computer+Vision;⚡+LeetCode+Knight+%7C+1953+Rating;🚀+BTech+AI+%26+Data+Science+@+CIT)](https://github.com/Abishek-kk)
+
+</div>
 
 ---
 
-## 🧠 About Me
+<img align="right" alt="AI GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 👋 Hey, I'm Abishek!
+
+```python
+class AbishekK:
+    def __init__(self):
+        self.name      = "Abishek K"
+        self.role      = "AI & ML Engineer"
+        self.college   = "Chennai Institute of Technology"
+        self.degree    = "BTech — AI & Data Science"
+        self.cgpa      = 8.11
+        self.location  = "Chennai, India 🇮🇳"
+
+    @property
+    def current_focus(self):
+        return [
+            "Agentic AI Systems",
+            "LLM Pipelines (LangChain, OpenAI)",
+            "Full-Stack AI Products",
+            "Competitive Programming",
+        ]
+
+    def __str__(self):
+        return "Turning data into decisions, models into products."
+```
+
+<br clear="right"/>
+
+---
+
+## 🧠 Tech Arsenal
 
 <table>
 <tr>
-<td>
+<td valign="top" width="33%">
 
-- 🎓 **B.Tech – Artificial Intelligence & Data Science** *(2nd Year)*  
-- 💡 Passionate about **AI systems, scalable software & clean UI/UX**  
-- 🛠️ Actively building **hackathon-grade, real-world products.**  
-- 🌱 Exploring **Advanced React, Backend Architecture & AI Agents.**  
-- ⚡ Core belief: **Consistency > Motivation**
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+### 🌐 Full-Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ Tools & Viz
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </td>
 </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Cloud
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<th align="left">🚧 Project</th>
-<th align="left">📝 Description</th>
-<th align="left">🛠 Tech</th>
-<th align="left">🔗</th>
-</tr>
+### 🏪 AutoMart AI — Intelligent Retail System
+> An end-to-end agentic AI system built for smart retail operations
 
-<tr>
-<td><b>AI-Powered Resume Analyzer</b></td>
-<td>Intelligent resume parsing, scoring & NLP insights</td>
-<td>Python · ML · NLP</td>
-<td><a href="https://github.com/Abishek-kk/AI-Powered-Resume">Repo</a></td>
-</tr>
+- **Demand Forecasting** with LSTM networks for inventory optimization
+- **Customer Segmentation** using K-Means clustering for targeted marketing
+- **Association Rules** via Apriori algorithm for product recommendations
+- Orchestrated via **LangChain agents** with a **Streamlit** decision dashboard
 
-<tr>
-<td><b>Smart Health Dashboard</b></td>
-<td>Real-time health analytics & monitoring system</td>
-<td>React · Node · Express</td>
-<td><a href="https://github.com/Abishek-kk/Smart-Health-Dashboard">Repo</a></td>
-</tr>
+### 🧼 Hygen Hub — AI-Powered IoT (Maha Kumbh)
+> Large-scale intelligent infrastructure for public health & safety
 
-<tr>
-<td><b>IoT Health & Sanitation System</b></td>
-<td>Cloud-connected IoT health & sanitation platform</td>
-<td>React · Firebase · Node</td>
-<td><a href="https://github.com/Abishek-kk/IoT-Health-Sanitation">Repo</a></td>
-</tr>
-</table>
+- Real-time monitoring of healthcare centers, water dispensers & air filters
+- Automated action triggers for safety and hygiene events
+- Deployed at scale for Maha Kumbh infrastructure management
+
+### 📊 CMR Dashboard — Intelligent Data Platform
+> Built during AI internship at Reach Skyline
+
+- Centralized multi-source data ingestion with semantic processing
+- Clause-level document segmentation for precision analysis
+- Real-time KPI monitoring enabling faster management decisions
 
 ---
 
-## ⚔️ Competitive Programming
+## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-- 🧩 Strong foundation in **DSA, Graphs & Dynamic Programming**  
-- 🏆 Active problem solving on **LeetCode, Codeforces & AtCoder**  
-- 🔗 **LeetCode:**[]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abishek-kk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek-kk&layout=compact&langs_count=8&theme=tokyonight"/>
 
-</td>
-</tr>
-</table>
+</div>
 
----
+<div align="center">
 
-## 📊 GitHub Analytics
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abishek-kk&theme=tokyonight)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishek-kk&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
-  <img src="https://streak-stats.demolab.com?user=Abishek-kk&theme=tokyonight&hide_border=true" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-kk&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🏆 Competitive Programming
 
-<p align="center">
-  <a href="mailto:abishekkumar548709@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff1744?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abishek-k-4b8416326/">
-    <img src="https://img.shields.io/badge/LinkedIn-2979ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/ryoUaQAKNN/">
-    <img src="https://img.shields.io/badge/LeetCode-ff9100?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Abishek-kk">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+| Platform | Achievement | Rating / Stats |
+|:---:|:---:|:---:|
+| 🟡 **LeetCode** | **Knight** 🏅 | `1953` · 1000+ Problems Solved |
+| 🟢 **CodeChef** | **2⭐ Coder** | Rating `1545` |
+| 🔵 **HackerRank** | Active Solver | 40 Problems · Hackos `230` |
+| 🔴 **Codeforces** | Competitive | Active participant |
+| 🟠 **GeeksforGeeks** | Contributor | Active problem solver |
+
+</div>
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider following — let’s build something impactful together 🚀
-</p>
+## 💼 Experience
 
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🤖  AI Intern · Reach Skyline               Nov 2025 – Dec 2025   │
+│      → Built CMR Dashboard (AI-powered document + data platform)    │
+│      → Multi-source data ingestion · Clause-level NLP segmentation  │
+├─────────────────────────────────────────────────────────────────────┤
+│  💻  Front-End Dev Intern · Zero2Site        May 2025 – Jul 2025    │
+│      → Built responsive web apps with React.js, HTML/CSS, JS        │
+│      → Agile workflows · Git/GitHub version control                  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+🥇 **Mumbai Hacks** Finalist &nbsp;|&nbsp; 🥇 **Escape Da Vinci** Finalist &nbsp;|&nbsp; 🏅 **Grand Master of Tech Nova** 
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- ☁️ **AWS Cloud** Virtual Internship — Edu-Skills
+- 📡 **Internet of Things** — NPTEL (2025)
+- 🌐 **Networking Essentials** — Cisco (Dec 2025)
+- 🔐 **Cybersecurity Essentials** — Cisco (Jun 2025)
+- 📊 **Data Science Lab** — WQU
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishekkumar548709@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abishek.k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abishek-kk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abishek-kk&color=a78bfa&style=flat-square&label=Profile+Views)
+
+*"The best models are the ones that solve real problems."*
+
+</div>
