@@ -14,7 +14,7 @@
 
 <img align="right" alt="AI GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 👋 Hey, I'm Abishek!
+### 👋 Hey, I'm Abishek.K!
 
 ```python
 class AbishekK:
