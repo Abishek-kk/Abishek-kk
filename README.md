@@ -27,7 +27,7 @@
 ## 👋 About Me
 
 ```python
-class AbishekK:
+class Abishek.K:
     def __init__(self):
         self.name      = "Abishek K"
         self.role      = "AI & ML Engineer"
