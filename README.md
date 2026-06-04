@@ -27,7 +27,7 @@
 ## 👋 About Me
 
 ```python
-class Abishek.K:
+class AbishekK:
     def __init__(self):
         self.name      = "Abishek K"
         self.role      = "AI & ML Engineer"
@@ -228,7 +228,7 @@ class Abishek.K:
 
 <div align="center">
 
-[![Abishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek-kk&theme=tokyo-night&hide_border=true)](https://github.com/Abishek-kk)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abishek-kk&theme=tokyonight" width="100%"/>
 
 </div>
 
